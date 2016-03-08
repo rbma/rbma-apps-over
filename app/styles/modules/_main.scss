@@ -11,6 +11,8 @@
 	@include align-items(center);
 	@include justify-content(center);
 	cursor: pointer;
+	background: url(../images/lookout.jpg) no-repeat center center;
+	background-size: cover;
 	.logo{
 		width: 200px;
 		height: auto;
