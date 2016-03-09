@@ -4,3 +4,5 @@ env.json
 .env
 keys.json
 aws.json
+app/fonts
+app/icons
